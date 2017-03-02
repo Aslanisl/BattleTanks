@@ -1,0 +1,26 @@
+
+sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bullets
+  rotate: false
+  xy: 1, 67
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+ShotFire
+  rotate: false
+  xy: 1, 1
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+tank_and_gun
+  rotate: false
+  xy: 259, 3
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

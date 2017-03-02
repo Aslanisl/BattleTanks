@@ -1,0 +1,47 @@
+
+ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+TEXT_HIGHSCORE
+  rotate: false
+  xy: 1, 60
+  size: 451, 61
+  orig: 451, 61
+  offset: 0, 0
+  index: -1
+TEXT_START
+  rotate: false
+  xy: 1, 0
+  size: 247, 60
+  orig: 247, 60
+  offset: 0, 0
+  index: -1
+TEXT_PAUSE
+  rotate: false
+  xy: 454, 60
+  size: 244, 61
+  orig: 244, 61
+  offset: 0, 0
+  index: -1
+TEXT_MENU
+  rotate: false
+  xy: 250, 0
+  size: 222, 60
+  orig: 222, 60
+  offset: 0, 0
+  index: -1
+TEXT_NEXT
+  rotate: false
+  xy: 700, 62
+  size: 205, 59
+  orig: 205, 59
+  offset: 0, 0
+  index: -1
+TEXT_HELP
+  rotate: false
+  xy: 474, 2
+  size: 197, 58
+  orig: 197, 58
+  offset: 0, 0
+  index: -1
